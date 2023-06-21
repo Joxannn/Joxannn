@@ -3,11 +3,9 @@
   <img src="https://cdn.discordapp.com/attachments/1120698010612011071/1121032975082074262/6220411f91ad813bfb780e4d6a36bea8.gif" width="500"/>
 </div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joxannn&repo=github-readme-stats" />
+  <img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joxannn&repo=convoychat" />
-</a>
+
 ### 🤑 About Me :
 🤬 hater of oskar wasiluk
 
